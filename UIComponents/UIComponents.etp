@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<EFPROJECT>
+    <GENERAL>
+        <BANNER>Microsoft Visual Studio Application Template File</BANNER>
+        <VERSION>1.00</VERSION>
+        <SourceControlSettings>
+            <ProjectName>SAK</ProjectName>
+            <AuxPath>SAK</AuxPath>
+            <LocalPath>SAK</LocalPath>
+            <Provider>SAK</Provider>
+        </SourceControlSettings>
+        <Views>
+            <ProjectExplorer>
+                <File>WRoboUI\WRoboUI.csproj</File>
+            </ProjectExplorer>
+        </Views>
+        <References>
+            <Reference>
+                <FILE>WRoboUI\WRoboUI.csproj</FILE>
+                <GUIDPROJECTID>{3C60BB6F-B4B1-460A-873A-D16783F948EF}</GUIDPROJECTID>
+            </Reference>
+        </References>
+    </GENERAL>
+</EFPROJECT>

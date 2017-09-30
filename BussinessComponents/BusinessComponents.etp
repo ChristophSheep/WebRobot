@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<EFPROJECT>
+    <GENERAL>
+        <BANNER>Microsoft Visual Studio Application Template File</BANNER>
+        <VERSION>1.00</VERSION>
+        <SourceControlSettings>
+            <ProjectName>SAK</ProjectName>
+            <AuxPath>SAK</AuxPath>
+            <LocalPath>SAK</LocalPath>
+            <Provider>SAK</Provider>
+        </SourceControlSettings>
+        <Views>
+            <ProjectExplorer>
+                <File>BusinessLogic\BusinessLogic.csproj</File>
+                <File>BusinessData\BusinessData.csproj</File>
+                <File>HTMLParser\HTMLParser.csproj</File>
+            </ProjectExplorer>
+        </Views>
+        <References>
+            <Reference>
+                <FILE>BusinessLogic\BusinessLogic.csproj</FILE>
+                <GUIDPROJECTID>{64F3B859-DBA7-40F6-A091-63425A2D701A}</GUIDPROJECTID>
+            </Reference>
+            <Reference>
+                <FILE>BusinessData\BusinessData.csproj</FILE>
+                <GUIDPROJECTID>{5F97AF45-631B-418E-B76D-5A4C38525230}</GUIDPROJECTID>
+            </Reference>
+            <Reference>
+                <FILE>HTMLParser\HTMLParser.csproj</FILE>
+                <GUIDPROJECTID>{2E96A1BC-02D3-4561-9EA5-0A6C74140A86}</GUIDPROJECTID>
+            </Reference>
+        </References>
+    </GENERAL>
+</EFPROJECT>

@@ -1,0 +1,91 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FE3BBBB6-72D5-11D2-9ACE-00C04F79A2A4}") = "UIComponents", "UIComponents\UIComponents.etp", "{E666C176-4145-462B-AE28-326A8B626549}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FE3BBBB6-72D5-11D2-9ACE-00C04F79A2A4}") = "BusinessComponents", "BussinessComponents\BusinessComponents.etp", "{CA8A7A06-27D5-4786-AE2C-7A7FE2C6642C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FE3BBBB6-72D5-11D2-9ACE-00C04F79A2A4}") = "OperationalManagement", "OperationalManagement\OperationalManagement.etp", "{DECF751A-B838-4343-829F-222ADB233930}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 9
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {443144F9-5EBD-4367-83C3-C564C8B298D7}
+		SccProjectUniqueName1 = BussinessComponents\\BusinessComponents.etp
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = BussinessComponents\\
+		SccProjectUniqueName2 = BussinessComponents\\BusinessData\\BusinessData.csproj
+		SccProjectTopLevelParentUniqueName2 = BussinessComponents\\BusinessComponents.etp
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = BussinessComponents\\BusinessData\\
+		SccProjectUniqueName3 = BussinessComponents\\BusinessLogic\\BusinessLogic.csproj
+		SccProjectTopLevelParentUniqueName3 = BussinessComponents\\BusinessComponents.etp
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = BussinessComponents\\BusinessLogic\\
+		SccProjectUniqueName4 = BussinessComponents\\HTMLParser\\HTMLParser.csproj
+		SccProjectTopLevelParentUniqueName4 = BussinessComponents\\BusinessComponents.etp
+		SccLocalPath4 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = BussinessComponents\\HTMLParser\\
+		SccProjectUniqueName5 = OperationalManagement\\OperationalManagement.etp
+		SccLocalPath5 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection5 = OperationalManagement\\
+		SccProjectUniqueName6 = OperationalManagement\\WRoboOperationalMgnt\\WRoboOperationalMgnt.csproj
+		SccProjectTopLevelParentUniqueName6 = OperationalManagement\\OperationalManagement.etp
+		SccLocalPath6 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection6 = OperationalManagement\\WRoboOperationalMgnt\\
+		SccProjectUniqueName7 = UIComponents\\UIComponents.etp
+		SccLocalPath7 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection7 = UIComponents\\
+		SccProjectUniqueName8 = UIComponents\\WRoboUI\\WRoboUI.csproj
+		SccProjectTopLevelParentUniqueName8 = UIComponents\\UIComponents.etp
+		SccLocalPath8 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection8 = UIComponents\\WRoboUI\\
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3C60BB6F-B4B1-460A-873A-D16783F948EF}.Debug.ActiveCfg = Debug|.NET
+		{3C60BB6F-B4B1-460A-873A-D16783F948EF}.Debug.Build.0 = Debug|.NET
+		{3C60BB6F-B4B1-460A-873A-D16783F948EF}.Release.ActiveCfg = Release|.NET
+		{3C60BB6F-B4B1-460A-873A-D16783F948EF}.Release.Build.0 = Release|.NET
+		{64F3B859-DBA7-40F6-A091-63425A2D701A}.Debug.ActiveCfg = Debug|.NET
+		{64F3B859-DBA7-40F6-A091-63425A2D701A}.Debug.Build.0 = Debug|.NET
+		{64F3B859-DBA7-40F6-A091-63425A2D701A}.Release.ActiveCfg = Release|.NET
+		{64F3B859-DBA7-40F6-A091-63425A2D701A}.Release.Build.0 = Release|.NET
+		{5F97AF45-631B-418E-B76D-5A4C38525230}.Debug.ActiveCfg = Debug|.NET
+		{5F97AF45-631B-418E-B76D-5A4C38525230}.Debug.Build.0 = Debug|.NET
+		{5F97AF45-631B-418E-B76D-5A4C38525230}.Release.ActiveCfg = Release|.NET
+		{5F97AF45-631B-418E-B76D-5A4C38525230}.Release.Build.0 = Release|.NET
+		{749E1BA9-19A6-4146-818E-04AAB92CEBF6}.Debug.ActiveCfg = Debug|.NET
+		{749E1BA9-19A6-4146-818E-04AAB92CEBF6}.Debug.Build.0 = Debug|.NET
+		{749E1BA9-19A6-4146-818E-04AAB92CEBF6}.Release.ActiveCfg = Release|.NET
+		{749E1BA9-19A6-4146-818E-04AAB92CEBF6}.Release.Build.0 = Release|.NET
+		{2E96A1BC-02D3-4561-9EA5-0A6C74140A86}.Debug.ActiveCfg = Debug|.NET
+		{2E96A1BC-02D3-4561-9EA5-0A6C74140A86}.Debug.Build.0 = Debug|.NET
+		{2E96A1BC-02D3-4561-9EA5-0A6C74140A86}.Release.ActiveCfg = Release|.NET
+		{2E96A1BC-02D3-4561-9EA5-0A6C74140A86}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		Idea.txt = Idea.txt
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

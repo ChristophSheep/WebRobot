@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[BusinessData.csproj]
+SCC_Aux_Path = "\\netapp01\l008\SourceSafe\ss"
+SCC_Project_Name = "$/Projekte/C2CWebRobot/C2CWebRobot/BussinessComponents/BusinessData", SEBBAAAA

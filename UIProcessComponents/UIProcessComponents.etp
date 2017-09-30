@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<EFPROJECT>
+    <GENERAL>
+        <BANNER>Microsoft Visual Studio Application Template File</BANNER>
+        <VERSION>1.00</VERSION>
+        <Views>
+            <ProjectExplorer>
+                <File>WRobo\WRobo.csproj</File>
+            </ProjectExplorer>
+        </Views>
+        <References>
+            <Reference>
+                <FILE>WRobo\WRobo.csproj</FILE>
+                <GUIDPROJECTID>{438ABC86-4ED6-4385-828A-EA1913B4D727}</GUIDPROJECTID>
+            </Reference>
+        </References>
+    </GENERAL>
+</EFPROJECT>

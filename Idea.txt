@@ -1,0 +1,25 @@
+Algorithmus zum Laden der Website:
+**********************************
+
+
+Erstelle eine WorkItem mit der Startseite und gibt es in
+die DownloadQueue.
+
+
+WorkerThread die angestartet werden bearbeiten die DownloadQueue.
+
+Arbeitsschritte:
+****************
+
+- Hole eine WorkItem aus der Queue
+- Bestimmte den Typ des WorkItem
+
+	a) Typ = WebSite
+		- Lade die Website
+		- Extrahiere die Links, schreibe die Link ums
+		- Gibt die zu landenden Objekte in die Downloadqueue
+		- Speichere die WebSeite auf die Festplatte
+		
+	b) Typ = File
+		- Speichere das File auf die Festplatte
+	
